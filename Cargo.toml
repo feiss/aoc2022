@@ -19,6 +19,31 @@ path = "src/03/bin/main.rs"
 name = "04"
 path = "src/04/bin/main.rs"
 
+[[bin]]
+name = "05"
+path = "src/05/bin/main.rs"
+
+[[bin]]
+name = "06"
+path = "src/06/bin/main.rs"
+
+[[bin]]
+name = "07"
+path = "src/07/bin/main.rs"
+
+[[bin]]
+name = "08"
+path = "src/08/bin/main.rs"
+
+[[bin]]
+name = "09"
+path = "src/09/bin/main.rs"
+
+[[bin]]
+name = "10"
+path = "src/10/bin/main.rs"
+
+
 
 
 
